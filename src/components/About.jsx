@@ -14,7 +14,7 @@ export default function About() {
         <div className="about__portrait-wrap">
           <img
             src="https://res.cloudinary.com/dpeojc51e/image/upload/v1776243616/vinay_photo_wqqb0r.png"
-            alt="Durga Vinay Kumar, photographer"
+            alt="Busina Vinay Kumar, photographer"
             className="about__portrait"
             loading="lazy"
           />
@@ -23,7 +23,7 @@ export default function About() {
 
         <div className="about__text">
           <p className="about__eyebrow">The photographer</p>
-          <h2 className="about__heading">About Durga Vinay Kumar</h2>
+          <h2 className="about__heading">About Busina Durga Vinay Kumar</h2>
 
           <p className="about__bio">
             Based in Visakhapatnam, I specialise in product and brand photography

@@ -27,7 +27,7 @@ export default function Header() {
           window.scrollTo({ top: 0, behavior: "smooth" });
         }}
       >
-        Durga Vinay Kumar
+        Busina Vinay Kumar
       </a>
 
       {/* Desktop nav */}

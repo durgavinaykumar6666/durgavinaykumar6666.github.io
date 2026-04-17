@@ -46,7 +46,7 @@ const photos = [
   {
     previewSrc: "/videos/prev_video.mp4",
     fullSrc: "/videos/full_video.mp4",
-    alt: "Instagram reel shot by Durga Vinay Kumar",
+    alt: "Instagram reel shot by Busina Vinay Kumar",
     tag: "Video Frame",
     wide: false,
     type: "video",

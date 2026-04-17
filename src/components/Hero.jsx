@@ -10,7 +10,7 @@ export default function Hero() {
       <div className="hero__image-wrap">
         <img
           src="https://res.cloudinary.com/dpeojc51e/image/upload/v1776243619/black_stand_singer_w4gy2t.jpg"
-          alt="Hero product photograph by Durga Vinay Kumar"
+          alt="Hero product photograph by Busina Vinay Kumar"
           className="hero__image"
           loading="eager"
         />

@@ -23,7 +23,7 @@ const contacts = [
   },
   {
     label: "Instagram",
-    value: "@durgavinaykumar",
+    value: "@businavinaykumar",
     href: "https://www.instagram.com/vinay.busina/",
     icon: (
       <svg width="20" height="20" viewBox="0 0 20 20" fill="none" aria-hidden="true">
