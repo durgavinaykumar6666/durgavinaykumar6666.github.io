@@ -23,7 +23,7 @@ export default function About() {
 
         <div className="about__text">
           <p className="about__eyebrow">The photographer</p>
-          <h2 className="about__heading">About Busina Durga Vinay Kumar</h2>
+          <h2 className="about__heading">About Busina Vinay Kumar</h2>
 
           <p className="about__bio">
             Based in Visakhapatnam, I specialise in product and brand photography
